@@ -33,15 +33,6 @@ The study uses behavioral, demographic, and product-level data to test **12 hypo
 
 ---
 
-## 📂 Repository Structure
-greenpower-solar-adoption-modeling/
-├── docs/ # Final PDF report
-├── scripts/ # R modeling scripts
-├── data/ # Raw or synthetic data (if allowed)
-├── README.md # Project overview
-
----
-
 ## 📄 Files
 
 | File                          | Description                                      |
