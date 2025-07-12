@@ -1,0 +1,1 @@
+# green-power-solar-adoption-study
